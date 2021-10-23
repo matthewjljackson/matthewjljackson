@@ -1,16 +1,20 @@
-# matthewjackson
+## Hi, I'm Matt, a software developer based in London
 
-About me
+- 💻 I'm passionate about building scalable and reliable applications.
+- 🌎 I'm most recently working on Glue - a web application aimed at connecting buyers, sellers and those who wish to trade skills and freelance services. 
 
-Hi, I'm Matt. I'm a software developer based in London
-💻 I'm passionate about building scalable and reliable applications.
-🌎 I'm most recently working on Glue - a web application which aims to connect people who are looking to teach/learn new skills.
+### Some of my favourite technologies: <br>
 
-Some of my favourite technologies:
-Typescript React Node.js postgresql Next.js
+<code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" alt="Next.js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJXiUlOO9h8X85vCGH1ipF7wemMs2IquS7g&usqp=CAU"></code>
+<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-Outside of coding, I love to:
-🏃‍♂️ Exercise and stay fit!
+### Outside of coding, I like to:
 
-Social
-Linkedin
+> - study all things crypto from trading to learning to write smart contracts
+> - Exercise and stay fit!
+
+#### Social
+[Linkedin](https://www.linkedin.com/in/matthewjljackson/)
