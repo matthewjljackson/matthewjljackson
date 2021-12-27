@@ -11,7 +11,8 @@
 <code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewjljackson)](https://github.com/matthewjljackson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjljackson&layout=compact&theme=dark)](https://github.com/matthewjljackson/github-readme-stats)
+
 
 
 ### Outside of coding, I like to:
