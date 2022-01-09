@@ -25,7 +25,7 @@
 
 ### Outside of coding, I like to:
 
-> - study all things crypto from trading to learning to write smart contracts
+> - Study all things crypto from trading to learning to write smart contracts
 > - Exercise and stay fit!
 
 #### Social
